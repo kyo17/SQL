@@ -1,0 +1,15 @@
+/Users/jonathanespinoza/Projects/SQL/Models/bin/Debug/net5.0/Models.deps.json
+/Users/jonathanespinoza/Projects/SQL/Models/bin/Debug/net5.0/Models.runtimeconfig.json
+/Users/jonathanespinoza/Projects/SQL/Models/bin/Debug/net5.0/Models.runtimeconfig.dev.json
+/Users/jonathanespinoza/Projects/SQL/Models/bin/Debug/net5.0/Models.dll
+/Users/jonathanespinoza/Projects/SQL/Models/bin/Debug/net5.0/ref/Models.dll
+/Users/jonathanespinoza/Projects/SQL/Models/bin/Debug/net5.0/Models.pdb
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.AssemblyInfoInputs.cache
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.AssemblyInfo.cs
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.csproj.CoreCompileInputs.cache
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.dll
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/ref/Models.dll
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.pdb
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.genruntimeconfig.cache
+/Users/jonathanespinoza/Projects/SQL/Models/obj/Debug/net5.0/Models.csprojAssemblyReference.cache
